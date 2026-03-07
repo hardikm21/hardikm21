@@ -21,16 +21,15 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/hardikm21" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
 </a>
 
 <a href="https://instagram.com/hardik.m21" target="_blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" width="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" width="40" />
 </a>
 
 </p>
 
----
 
 ### Languages and Tools:
 
