@@ -19,8 +19,8 @@
 ### Connect with me:
 
 <p align="left">
-<a href="YOUR LINKEDIN LINK" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/hardikm21.svg" height="30" width="40" />
+<a href="www.linkedin.com/in/hardikm21" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
 </a>
 </p>
 
