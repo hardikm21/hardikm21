@@ -18,8 +18,6 @@
 
 ### Connect with me:
 
-### Connect with me:
-
 <p align="left">
 
 <a href="https://www.linkedin.com/in/hardikm21" target="_blank">
@@ -27,7 +25,7 @@
 </a>
 
 <a href="https://instagram.com/hardik.m21" target="_blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" width="40" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" width="30" />
 </a>
 
 </p>
