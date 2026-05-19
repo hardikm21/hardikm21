@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hardik Mittal</h1>
-<h3 align="center">Computer Vision and Machine Learning engineer from India</h3>
+<h3 align="center">Machine Learning engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikm21&label=Profile%20views&color=0e75b6&style=flat" alt="hardikm21" /> </p>
 
 - 🔭 I’m currently working on **YOLO based Wildfire Detection**
 
-- 🌱 I’m currently learning **Computer Vision, Machine Learning and DSA**
+- 🌱 I’m currently working on  **Computer Vision, Machine Learning, NLP , AI Agents**
 
 
 - 💬 Ask me about **YOLO, Computer Vision, C++, Python**
