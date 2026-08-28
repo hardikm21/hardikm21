@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikm21&label=Profile%20views&color=0e75b6&style=flat" alt="hardikm21" /> </p>
 
+- 👨‍🎓 I am a Final Year Student at **Indian Institute of Information Technology Dharwad**
+
 - 🔭 I’m currently working on **Agentic AI for Enterprise**
 
 - 🌱 Skills  **Computer Vision, Machine Learning, NLP, AI Agents, RAG, MLOps, FastAPI**
