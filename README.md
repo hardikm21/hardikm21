@@ -5,11 +5,11 @@
 
 - 👨‍🎓 I am a Final Year Student at **Indian Institute of Information Technology Dharwad**
 
-- 🔭 I’m currently working on **Agentic AI for Enterprise**
+- 👨‍💻 I’m currently working on **Agentic AI for Enterprise**
 
-- 🌱 Skills  **Computer Vision, Machine Learning, NLP, AI Agents, RAG, MLOps, FastAPI**
+- 🧠 Skills  **Computer Vision, Machine Learning, NLP, AI Agents, RAG, MLOps, FastAPI**
 
-- 📫 How to reach me **hardikmittal101@gmail.com**  &  **hardik.iiitdwd@gmail.com**
+- 📧 How to reach me **hardikmittal101@gmail.com**  &  **hardik.iiitdwd@gmail.com**
 
 
 ---
