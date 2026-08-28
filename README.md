@@ -7,7 +7,8 @@
 
 - 🌱 Skills  **Computer Vision, Machine Learning, NLP, AI Agents, RAG, MLOps, FastAPI**
 
-- 📫 How to reach me **hardikmittal101@gmail.com**
+- 📫 How to reach me **hardikmittal101@gmail.com**  &  **hardik.iiitdwd@gmail.com**
+
 
 ---
 
