@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Hardik Mittal</h1>
+
 <h3 align="center">Machine Learning engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikm21&label=Profile%20views&color=0e75b6&style=flat" alt="hardikm21" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hardikm21&label=Profile%20views&color=0e75b6&style=flat" alt="hardikm21" />
+</p>
 
 - 👨‍🎓 I am a Final Year Student at **Indian Institute of Information Technology Dharwad**
 
-- 👨‍💻 I’m currently working on **Agentic AI for Enterprise**
+- 👨‍💻 Experience:
+  - **Lenek Technologies:** AI Intern (3m, Hybrid, Kanpur, India)
+  - **Hindustan Aeronautics Limited (HAL):** ML Intern (3m, Onsite, Bengaluru, India)
 
-- 🧠 Skills  **Computer Vision, Machine Learning, NLP, AI Agents, RAG, MLOps, FastAPI**
+- 🧠 Skills: **Computer Vision, Machine Learning, NLP, AI Agents, RAG, MLOps, FastAPI**
 
-- 📧 How to reach me **hardikmittal101@gmail.com**  &  **hardik.iiitdwd@gmail.com**
+- 📧 How to reach me: **hardikmittal101@gmail.com** & **hardik.iiitdwd@gmail.com**
 
 
 ---
