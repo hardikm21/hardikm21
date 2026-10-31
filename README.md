@@ -12,7 +12,7 @@
   - **Lenek Technologies:** AI Intern (Hybrid, Kanpur, India) Aug'26 - Oct'26
   - **Hindustan Aeronautics Limited (HAL):** ML Intern (Onsite, Bengaluru, India)  June'25 - Aug'25
 
-- 🧠 Skills: **Computer Vision, Machine Learning, NLP, AI Agents, RAG, MLOps, FastAPI**
+- 🧠 Skills: **Computer Vision, Machine Learning, NLP, AI Agents, RAG, MLOps, FastAPI , EDGE AI**
 
 - 📧 How to reach me: **hardikmittal101@gmail.com** & **hardik.iiitdwd@gmail.com**
 
