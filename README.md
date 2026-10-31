@@ -9,8 +9,8 @@
 - 👨‍🎓 I am a Final Year Student at **Indian Institute of Information Technology Dharwad**
 
 - 👨‍💻 Experience:
-  - **Lenek Technologies:** AI Intern (3m, Hybrid, Kanpur, India)
-  - **Hindustan Aeronautics Limited (HAL):** ML Intern (3m, Onsite, Bengaluru, India)
+  - **Lenek Technologies:** AI Intern (Hybrid, Kanpur, India) Aug'26 - Oct'26
+  - **Hindustan Aeronautics Limited (HAL):** ML Intern (Onsite, Bengaluru, India)  June'25 - Aug'25
 
 - 🧠 Skills: **Computer Vision, Machine Learning, NLP, AI Agents, RAG, MLOps, FastAPI**
 
